@@ -1,5 +1,21 @@
 # 🖼️ Image Filtering Using Convolution in OpenCV :: dev branch
-<p align="center"> <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-Numerical-lightblue?logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly&logoColor=white"> </p>
+<p align="center">
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white">
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white">
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Numpy-Numerical-lightblue?logo=numpy&logoColor=white">
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly&logoColor=white">
+  </a>
+</p>
 
 
 # 📁 Project Structure
