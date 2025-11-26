@@ -1,0 +1,22 @@
+# Common raster formats
+*.jpg   filter=lfs diff=lfs merge=lfs -text
+*.jpeg  filter=lfs diff=lfs merge=lfs -text
+*.png   filter=lfs diff=lfs merge=lfs -text
+*.bmp   filter=lfs diff=lfs merge=lfs -text
+*.tiff  filter=lfs diff=lfs merge=lfs -text
+*.tif   filter=lfs diff=lfs merge=lfs -text
+*.webp  filter=lfs diff=lfs merge=lfs -text
+
+# Modern / camera formats
+*.heic  filter=lfs diff=lfs merge=lfs -text
+*.heif  filter=lfs diff=lfs merge=lfs -text
+*.avif  filter=lfs diff=lfs merge=lfs -text
+*.raw   filter=lfs diff=lfs merge=lfs -text
+*.dng   filter=lfs diff=lfs merge=lfs -text
+*.nef   filter=lfs diff=lfs merge=lfs -text
+*.cr2   filter=lfs diff=lfs merge=lfs -text
+*.arw   filter=lfs diff=lfs merge=lfs -text
+
+# Icons / misc
+*.ico   filter=lfs diff=lfs merge=lfs -text
+*.psd   filter=lfs diff=lfs merge=lfs -text
