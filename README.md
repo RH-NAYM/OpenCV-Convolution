@@ -1,5 +1,5 @@
 # 🖼️ Comprehensive Image Filtering Using Convolution in OpenCV
-[![main branch](https://img.shields.io/badge/branch-dev-blue?style=flat&logo=git&logoColor=white)](https://github.com/RH-NAYM/OpenCV-Convolution/tree/main)
+[![main branch](https://img.shields.io/badge/branch-main-blue?style=flat&logo=git&logoColor=white)](https://github.com/RH-NAYM/OpenCV-Convolution/tree/main)
 #
 
 <p align="center">
