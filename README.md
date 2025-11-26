@@ -1,4 +1,6 @@
-# 🖼️ Image Filtering Using Convolution in OpenCV :: dev branch
+# 🖼️ Image Filtering Using Convolution in OpenCV
+  dev
+
 <p align="center">
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white">
