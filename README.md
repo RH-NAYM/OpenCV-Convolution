@@ -21,15 +21,13 @@
 # 📁 Project Structure
 ```bash
 .
-├── 📓 Image_Filtering.ipynb     # Main Computer Vision course notebook
-├── 📘 README.md                # Documentation & module overview
-├── 📦 requirements.txt         # Python dependencies
-├── 🖼️ testImage.jpg            # Sample input image
-├── 🧪 test.py                  # Quick testing / experiments
-└── 🛠️ tools                    # Utility functions
-    ├── 🗂️ __pycache__           # Python bytecode cache (ignored in git)
-    │   └── tools.cpython-312.pyc
-    └── 🧩 tools.py              # Helper methods for filtering & visualization
+├── 📓 Image_Filtering.ipynb            # Main Computer Vision course notebook
+├── 📘 README.md                        # Documentation & module overview
+├── 📦 requirements.txt                 # Python dependencies
+├── 🖼️ testImage.jpg                    # Sample input image
+├── 🧪 test.py                          # Quick testing / experiments
+└── 🛠️ tools                            # Utility functions
+    └── 🧩 tools.py                     # Helper methods for filtering & visualization
 ```
 
 # 📌 Overview
