@@ -1,4 +1,4 @@
-# 🖼️ Image Filtering Using Convolution in OpenCV :: dev branch
+# 🖼️ Image Filtering Using Convolution in OpenCV :: main branch
 <p align="center"> <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-Numerical-lightblue?logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly&logoColor=white"> </p>
 
 
