@@ -132,7 +132,7 @@ class LearnTools:
 
 
     def show_two_images(self, title1, img1, title2, img2):
-        fig, axs = plt.subplots(1, 2, figsize=(12, 6))
+        fig, axs = plt.subplots(1, 2, figsize=(24, 12))
 
         img1_rgb = cv2.cvtColor(img1, cv2.COLOR_BGR2RGB)
         axs[0].imshow(img1_rgb)
